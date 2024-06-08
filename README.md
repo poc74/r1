@@ -1,1 +1,1 @@
-# r1
+exceptions in Java are objects that represent an unusual or erroneous condition that occurs during the execution of a program. They disrupt the normal flow of the program and can be handled by using try-catch blocks or by specifying them in method signatures with the throws keyword.
